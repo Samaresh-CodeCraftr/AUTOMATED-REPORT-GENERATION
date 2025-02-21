@@ -46,5 +46,7 @@ Game 4,33.8
 - A PDF report (`analysis_report.pdf`) containing the average game length.
 
 ## Example Output
-```
+
 Report generated: analysis_report.pdf
+
+![Image](https://github.com/user-attachments/assets/ca82da3f-ec33-433a-8a44-cec9d2229b6b)
